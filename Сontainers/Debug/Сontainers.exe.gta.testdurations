@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GtaTestDurations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Executable>D:\projects\Сontainers\Debug\Сontainers.exe</Executable>
+  <TestDurations>
+    <TestDuration Test="ContainersTest.InitTest" Duration="1" />
+    <TestDuration Test="ContainersTest.InitSizeTest" Duration="1" />
+    <TestDuration Test="ContainersTest.EmptyInsertTest" Duration="1" />
+    <TestDuration Test="ContainersTest.FullInsertTest" Duration="1" />
+    <TestDuration Test="ContainersTest.EmptyPlaceInsertTest" Duration="1" />
+    <TestDuration Test="ContainersTest.NoPlaceInsertTest" Duration="1" />
+    <TestDuration Test="ContainersTest.FullArrayInsertInPlaceTest" Duration="1" />
+    <TestDuration Test="ContainersTest.RemoveLastTest" Duration="1" />
+    <TestDuration Test="ContainersTest.RemoveMiddle" Duration="1" />
+    <TestDuration Test="ContainersTest.IteratorInitTest" Duration="1" />
+    <TestDuration Test="ContainersTest.IteratorNextEmptyTest" Duration="1" />
+    <TestDuration Test="ContainersTest.IteratorPrevEmptyTest" Duration="1" />
+    <TestDuration Test="ContainersTest.IteratorNextTest" Duration="1" />
+    <TestDuration Test="ContainersTest.IteratorPrevTest" Duration="1" />
+    <TestDuration Test="ContainersTest.IteratorTooFarTest" Duration="1" />
+    <TestDuration Test="ContainersTest.IteratorTooFarBackTest" Duration="1" />
+    <TestDuration Test="ContainersTest.IteratorMoveToIndexTest" Duration="1" />
+    <TestDuration Test="ContainersTest.IteratorInsertTest" Duration="1" />
+    <TestDuration Test="ContainersTest.IteratorRemoveTest" Duration="1" />
+  </TestDurations>
+</GtaTestDurations>
