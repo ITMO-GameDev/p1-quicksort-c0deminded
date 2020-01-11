@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GtaTestDurations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Executable>D:\projects\Qsort\Debug\Qsort.exe</Executable>
+  <TestDurations>
+    <TestDuration Test="PivotTest.WrongPivot" Duration="1" />
+    <TestDuration Test="EmptyArrayTest.EmptyArrayError" Duration="1" />
+    <TestDuration Test="SingleElementTest.SingleElementError" Duration="1" />
+    <TestDuration Test="Qsort.WrongSort" Duration="1" />
+  </TestDurations>
+</GtaTestDurations>
