@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GtaTestDurations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Executable>D:\projects\Search\Debug\Search.exe</Executable>
+  <TestDurations>
+    <TestDuration Test="SearchTest.InitTest" Duration="1" />
+    <TestDuration Test="SearchTest.InputTest" Duration="1" />
+    <TestDuration Test="SearchTest.ContainsTest" Duration="1" />
+    <TestDuration Test="SearchTest.RemoveTest" Duration="1" />
+    <TestDuration Test="SearchTest.OperatorTest" Duration="3" />
+    <TestDuration Test="SearchTest.IteratorForwardTest" Duration="2" />
+    <TestDuration Test="SearchTest.IteratorForwardBackwardTest" Duration="4" />
+    <TestDuration Test="SearchTest.IteratorSetTest" Duration="1" />
+  </TestDurations>
+</GtaTestDurations>
